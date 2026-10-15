@@ -1,3 +1,9 @@
+<style>
+.markdown-body > h1:first-child {
+  display: none;
+}
+</style>
+
 # Replay Privacy Policy
 
 Last updated: October 16, 2026
